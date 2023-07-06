@@ -9,8 +9,21 @@
 > - 给预训练语言模型引入文本解释/任务描述，可以通过无监督方式有效解决一些NLP任务（zero-shot scenario）。
 > - 综合考虑，本文提出引入pattern-exploiting-training，设计一种半监督训练策略PET和其改进版本iPET，将NLP的输入samples（text）映射为填空题形式（cloze-style phrase）。
 
-> ### Solution
+<details>
+<summary>Solution</summary>
+
 > ![Framework of PET](./Paper/Prompt/Exploiting_Clone/fig1.png)
 
+</details>
+
+### 2. It’s Not Just Size That Matters - Small Language Models Are Also Few-Shot Learners (NAACL 2021) [[pdf](./Paper/Prompt/Not_Just_Size/It%E2%80%99s%20Not%20Just%20Size%20That%20Matters%20-%20Small%20Language%20Models%20Are%20Also%20Few-Shot%20Learners%20-%20NAACL%202021.pdf)]
     
-    
+> ### Motivation
+> - 
+
+<details>
+<summary>Solution</summary>
+
+> ![Framework]()
+
+</details>
