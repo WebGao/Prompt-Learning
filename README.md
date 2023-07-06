@@ -1,8 +1,8 @@
 # Prompt Learning
 
 ## 目录
-- [Prompt基础知识](#Prompt基础知识)
-- [Prompt @ Recommendation](#Prompt--Recommendation)
+- [Prompt基础知识](#prompt基础知识)
+- [Prompt @ Recommendation](#prompt--recommendation)
 
 
 
@@ -77,3 +77,17 @@
 > ### Motivation
 
 # Prompt @ Recommendation
+
+### 1. Prompt Learning for News Recommendation (SIGIR 2023) [[pdf](./Paper/Recommendation/NewsRec/Prompt%20Learning%20for%20News%20Recommendation.pdf)]
+
+`soft prompt` `hard prompt` `hybrid prompt`
+
+> ### Motivation
+> - 
+
+<details>
+<summary>Solution</summary>
+
+> ![Framework of Prompt4NR](./Paper/Recommendation/NewsRec/fig1.png)
+
+</details>
