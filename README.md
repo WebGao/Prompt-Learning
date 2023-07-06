@@ -78,7 +78,7 @@
 
 # Prompt @ Recommendation
 
-### 1. Prompt Learning for News Recommendation (SIGIR 2023) [[pdf](./Paper/Recommendation/NewsRec/Prompt%20Learning%20for%20News%20Recommendation.pdf)]
+### 1. Prompt Learning for News Recommendation (SIGIR 2023) [[pdf](./Paper/Recommendation/NewsRec/Prompt%20Learning%20for%20News%20Recommendation.pdf)] 👀
 
 `soft prompt` `hard prompt` `hybrid prompt`
 
@@ -91,3 +91,23 @@
 > ![Framework of Prompt4NR](./Paper/Recommendation/NewsRec/fig1.png)
 
 </details>
+
+### 2. Personalized Prompt for Sequential Recommendation (2023) [[pdf](./Paper/Recommendation/SeqRC/Personalized%20Prompt%20for%20Sequential%20Recommendation.pdf)] 👀
+
+> ### Motivation
+> - 
+
+### 3. Personalized Prompt Learning for Explainable Recommendation (2023) [[pdf](./Paper/Recommendation/ExplainableRec/Personalized%20Prompt%20Learning%20for%20Explainable%20Recommendation.pdf)]
+
+> ### Motivation
+> - 
+
+### 4. GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation (2023) [[pdf](./Paper/Recommendation/GPT4Rec/GPT4Rec%20-%20A%20Generative%20Framework%20for%20Personalized%20Recommendation%20and%20User%20Interests%20Interpretation.pdf)]
+
+> ### Motivation
+> - 
+
+### 5. Large Language Models are Zero-Shot Rankers for Recommender Systems (2023) [[pdf](./Paper/Recommendation/LLM4Rec/Large%20Language%20Models%20are%20Zero-Shot%20Rankers%20for%20Recommender%20Systems.pdf)]
+
+> ### Motivation
+> - 
