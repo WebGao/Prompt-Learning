@@ -48,3 +48,23 @@
 > ![Framework of AutoPrompt](./Paper/Prompt/AutoPrompt/fig1.png)
 
 </details>
+
+### 4. Prefix-Tuning: Optimizing Continuous Prompts for Generation (2021) [[pdf](./Paper/Prompt/Prefix/Prefix-Tuning%20-%20Optimizing%20Continuous%20Prompts%20for%20Generation.pdf)]
+
+`soft prompt` `MLM参数固定`
+
+> ### Motivation
+
+<details>
+<summary>Solution</summary>
+
+> ![Framework of Prefix-Tuning](./Paper/Prompt/Prefix/fig1.png)
+
+</details>
+
+### 5. PADA: A Prompt-based Autoregressive Approach for Adaptation to Unseen Domains (2021) [[pdf](./Paper/Prompt/PADA/PADA%20-%20A%20Prompt-based%20Autoregressive%20Approach%20for%20Adaptation%20to%20Unseen%20Domains%20-%202021.pdf)]
+
+`soft prompt` `MLM参数固定？`
+
+> ### Motivation
+
