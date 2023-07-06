@@ -49,11 +49,13 @@
 
 </details>
 
-### 4. Prefix-Tuning: Optimizing Continuous Prompts for Generation (2021) [[pdf](./Paper/Prompt/Prefix/Prefix-Tuning%20-%20Optimizing%20Continuous%20Prompts%20for%20Generation.pdf)]
+### 4. Prefix-Tuning: Optimizing Continuous Prompts for Generation (2021) [[pdf](./Paper/Prompt/Prefix/Prefix-Tuning%20-%20Optimizing%20Continuous%20Prompts%20for%20Generation.pdf)][[GitHub](https://github.com/XiangLi1999/PrefixTuning)]
 
-`soft prompt` `MLM参数固定`
+`soft prefix prompt tokens` `hard input sample prompt tokens` `MLM参数固定`
 
 > ### Motivation
+> - 使用pre-train -> fine-tune范式将预训练语言模型应用下游任务时，通常需要更新预训练语言模型的参数。对不同任务需要分别fine-tune一次模型，并存储其参数，训练和存储开销昂贵。
+> - 本文提出为每个任务训练连续的prefix prompt tokens（prefix of input samples），趋势语言模型执行不同任务。
 
 <details>
 <summary>Solution</summary>
@@ -67,4 +69,5 @@
 `soft prompt` `MLM参数固定？`
 
 > ### Motivation
+
 
