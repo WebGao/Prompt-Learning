@@ -42,4 +42,9 @@
 > - 以往专家设计的prompt（hard prompt）成本高，对许多任务而言不直观，此外，模型对prompt包含的context信息高度敏感，因此人工设计的prompt容易引入bias。
 > - 为此，本文提出自动学习prompt和label的方式。
 
+<details>
+<summary>Solution</summary>
 
+> ![Framework of AutoPrompt](./Paper/Prompt/AutoPrompt/fig1.png)
+
+</details>
