@@ -1,8 +1,8 @@
 # Prompt Learning
 
 ## 目录
-- [[Prompt基础知识](#Prompt基础知识)]
-- [[Prompt @ Recommendation](#Prompt-@-Recommendation)]
+- [Prompt基础知识](#Prompt基础知识)
+- [Prompt @ Recommendation](#Prompt--Recommendation)
 
 
 
