@@ -19,11 +19,12 @@
 ### 2. It’s Not Just Size That Matters - Small Language Models Are Also Few-Shot Learners (NAACL 2021) [[pdf](./Paper/Prompt/Not_Just_Size/It%E2%80%99s%20Not%20Just%20Size%20That%20Matters%20-%20Small%20Language%20Models%20Are%20Also%20Few-Shot%20Learners%20-%20NAACL%202021.pdf)]
     
 > ### Motivation
-> - 
+> - PET、iPET使用的只能处理单个[mask]的完形填空，而实际任务可能会遇到多个[mask]。
+> - 本文相当于PET、iPET的改进版本，将单[mask] token拓展到k个[mask] tokens。
 
-<details>
+<!-- <details>
 <summary>Solution</summary>
 
 > ![Framework]()
 
-</details>
+</details> -->
