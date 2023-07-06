@@ -1,6 +1,12 @@
 # Prompt Learning
 
-## Prompt基础知识
+## 目录
+- [[Prompt基础知识](#Prompt基础知识)]
+- [[Prompt @ Recommendation](#Prompt-@-Recommendation)]
+
+
+
+# Prompt基础知识
 
 ### 1. Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference (EACL 2021) [[pdf](./Paper/Prompt/Exploiting_Clone/Exploiting%20Cloze%20Questions%20for%20Few%20Shot%20Text%20Classification%20and%20Natural%20Language%20Inference%20-%20EACL%202021.pdf)]
 
@@ -70,4 +76,4 @@
 
 > ### Motivation
 
-
+# Prompt @ Recommendation
