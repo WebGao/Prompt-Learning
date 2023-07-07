@@ -1,4 +1,4 @@
-# Prompt Learning
+# Prompt Learning `Beta`
 
 ## 目录
 - [Prompt基础知识](#prompt基础知识)
