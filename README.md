@@ -168,8 +168,14 @@
 
 ### 5. Large Language Models are Zero-Shot Rankers for Recommender Systems (2023) [[pdf](./Paper/Recommendation/LLM4Rec/Large%20Language%20Models%20are%20Zero-Shot%20Rankers%20for%20Recommender%20Systems.pdf)]
 
+`Testing LLM for Rec`
+
 > ### Motivation
 > - 
+
+### 6. Zero-Shot Next-Item Recommendation using Large Pretrained Language Models (2023) [[pdf](./Paper/Recommendation/Zero-Shot/Zero-Shot%20Next-Item%20Recommendation%20using%20Large%20Pretrained%20Language%20Models.pdf)]
+
+
 
 # Survey
 
