@@ -87,10 +87,35 @@
 <details>
 <summary>Solution</summary>
 
-> ![Framework of Wcarp](./Paper/Prompt/Warp/fig1.png)
+> ![Framework of Warp](./Paper/Prompt/Warp/fig1.png)
 
 </details>
 
+### 7. Making Pre-trained Language Models Better Few-shot Learners (2021) [[pdf](./Paper/Prompt/Few-shot_Learner/Making%20Pre-trained%20Language%20Models%20Better%20Few-shot%20Learners.pdf)]
+
+<!-- `soft prompt` -->
+
+> ### Motivation
+
+<details>
+<summary>Solution</summary>
+
+> ![Prompt](./Paper/Prompt/Few-shot_Learner/fig2.png)
+
+</details>
+
+### 8. What Makes Good In-Context Examples for GPT-3? (2021) [[pdf](./Paper/Prompt/What_Makes_Good/What%20Makes%20Good%20In-Context%20Examples%20for%20GPT-3.pdf)]
+
+<!-- `soft prompt` -->
+
+> ### Motivation
+
+<details>
+<summary>Solution</summary>
+
+> ![Prompt](./Paper/Prompt/What_Makes_Good/fig1.png)
+
+</details>
 
 # Prompt @ Recommendation
 
@@ -145,3 +170,11 @@
 
 > ### Motivation
 > - 
+
+# Survey
+
+### 1. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing (2021) [[pdf](./Paper/Prompt/Pre-train/Pre-train%2C%20Prompt%2C%20and%20Predict%20-%20A%20Systematic%20Survey%20of%20Prompting%20Methods%20in%20Natural%20Language%20Processing.pdf)]
+
+<!-- `soft prompt` -->
+
+> ### Motivation
