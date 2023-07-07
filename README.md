@@ -176,6 +176,11 @@
 ### 6. Zero-Shot Next-Item Recommendation using Large Pretrained Language Models (2023) [[pdf](./Paper/Recommendation/Zero-Shot/Zero-Shot%20Next-Item%20Recommendation%20using%20Large%20Pretrained%20Language%20Models.pdf)]
 
 
+### 7. Towards Personalized Cold-Start Recommendation with Prompts
+
+### 8. Recommender Systems in the Era of Large Language Models (LLMs)
+
+### 9. Generative recommendation: Towards next-generation recommender paradigm
 
 # Survey
 
