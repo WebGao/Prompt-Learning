@@ -1,4 +1,4 @@
-# Prompt Learning
+# Prompt Learning `Beta`
 
 ## 目录
 - [Prompt基础知识](#prompt基础知识)
@@ -83,19 +83,37 @@
 `soft prompt` `hard prompt` `hybrid prompt`
 
 > ### Motivation
-> - 
+> - 传统新闻推荐模型：news encoder、user encoder、similarity measure
+> 最近工作引入预训练语言模型，以pre-trian -> fine-tune范式，编码新闻内容，以进行新闻推荐。不足：因为新闻推荐任务和预训练语言模型任务存在gap，当前方法无法充分利用大语言模型的知识。
+> - prompt learning以pre-train -> prompt -> predict范式将下游任务和预训练语言模型对齐，在诸多NLP任务表现出色。受此启发，本文将prompt learning模式引入新闻推荐。
 
 <details>
 <summary>Solution</summary>
 
 > ![Framework of Prompt4NR](./Paper/Recommendation/NewsRec/fig1.png)
 
+> ![Propmts of Prompt4NR](./Paper/Recommendation/NewsRec/fig2.png)
+
 </details>
 
 ### 2. Personalized Prompt for Sequential Recommendation (2023) [[pdf](./Paper/Recommendation/SeqRC/Personalized%20Prompt%20for%20Sequential%20Recommendation.pdf)] 👀
 
 > ### Motivation
-> - 
+> - 随着预训练语言模型的火爆出圈，鉴于其其强大的知识储备、语义理解和语言处理能力，最近相关工作开始将预训练语言模型引入序列推荐。相关研究将用户历史行为视为tokens，作为预训练语言模型的输入，以缓解真实场景下用户行为数据洗漱问题。
+> - 本文将预训练语言模型引入到序列推荐任务以处理few-shot和zero-shot问题，采用prompt learning范式，将推荐任务和预训练语言模型对齐，以更高效从预训练语言模型提取知识。
+
+> ### Challenge
+> - 如何将NLP领域的prompt tuning范式引入推荐任务？
+> - 如何为推荐系统设计个性化prompts（user-oriented）。
+
+<details>
+<summary>Solution</summary>
+
+> ![Example of prompt tuning in recommendation](./Paper/Recommendation/SeqRC/fig1.png)
+
+> ![Framework of Prompt4SeqRec](./Paper/Recommendation/SeqRC/fig2.png)
+
+</details>
 
 ### 3. Personalized Prompt Learning for Explainable Recommendation (2023) [[pdf](./Paper/Recommendation/ExplainableRec/Personalized%20Prompt%20Learning%20for%20Explainable%20Recommendation.pdf)]
 
