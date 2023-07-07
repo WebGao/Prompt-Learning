@@ -1,12 +1,14 @@
 # Prompt Learning `Beta`
 
-## 目录
-- [Prompt基础知识](#prompt基础知识)
+![](https://img.shields.io/github/last-commit/WebGao/Prompt-Learning?color=green) ![](https://img.shields.io/badge/PaperNumber-14-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+
+## Contents
+- [Basics of Prompt](#basics-of-prompt)
 - [Prompt @ Recommendation](#prompt--recommendation)
 
 
 
-# Prompt基础知识
+# Basics of Prompt
 
 ### 1. Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference (EACL 2021) [[pdf](./Paper/Prompt/Exploiting_Clone/Exploiting%20Cloze%20Questions%20for%20Few%20Shot%20Text%20Classification%20and%20Natural%20Language%20Inference%20-%20EACL%202021.pdf)]
 
@@ -72,9 +74,48 @@
 
 ### 5. PADA: A Prompt-based Autoregressive Approach for Adaptation to Unseen Domains (2021) [[pdf](./Paper/Prompt/PADA/PADA%20-%20A%20Prompt-based%20Autoregressive%20Approach%20for%20Adaptation%20to%20Unseen%20Domains%20-%202021.pdf)]
 
-`soft prompt` `MLM参数固定？`
+`soft prompt` `MLM`
 
 > ### Motivation
+
+### 6. WARP: Word-level Adversarial ReProgramming (ACL 2021) [[pdf](./Paper/Prompt/Warp/WARP%20-%20Word-level%20Adversarial%20ReProgramming%20-%20ACL%20-%202021.pdf)]
+
+`soft prompt` `MLM参数固定，只更新插入的prompt和label`
+
+> ### Motivation
+
+<details>
+<summary>Solution</summary>
+
+> ![Framework of Warp](./Paper/Prompt/Warp/fig1.png)
+
+</details>
+
+### 7. Making Pre-trained Language Models Better Few-shot Learners (2021) [[pdf](./Paper/Prompt/Few-shot_Learner/Making%20Pre-trained%20Language%20Models%20Better%20Few-shot%20Learners.pdf)]
+
+<!-- `soft prompt` -->
+
+> ### Motivation
+
+<details>
+<summary>Solution</summary>
+
+> ![Prompt](./Paper/Prompt/Few-shot_Learner/fig2.png)
+
+</details>
+
+### 8. What Makes Good In-Context Examples for GPT-3? (2021) [[pdf](./Paper/Prompt/What_Makes_Good/What%20Makes%20Good%20In-Context%20Examples%20for%20GPT-3.pdf)]
+
+<!-- `soft prompt` -->
+
+> ### Motivation
+
+<details>
+<summary>Solution</summary>
+
+> ![Prompt](./Paper/Prompt/What_Makes_Good/fig1.png)
+
+</details>
 
 # Prompt @ Recommendation
 
@@ -129,3 +170,11 @@
 
 > ### Motivation
 > - 
+
+# Survey
+
+### 1. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing (2021) [[pdf](./Paper/Prompt/Pre-train/Pre-train%2C%20Prompt%2C%20and%20Predict%20-%20A%20Systematic%20Survey%20of%20Prompting%20Methods%20in%20Natural%20Language%20Processing.pdf)]
+
+<!-- `soft prompt` -->
+
+> ### Motivation
