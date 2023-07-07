@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/last-commit/WebGao/Prompt-Learning?color=green) ![](https://img.shields.io/badge/PaperNumber-14-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-## Contents
+# Contents
 - [Basics of Prompt](#basics-of-prompt)
 - [Prompt @ Recommendation](#prompt--recommendation)
 
