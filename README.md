@@ -83,12 +83,16 @@
 `soft prompt` `hard prompt` `hybrid prompt`
 
 > ### Motivation
-> - 
+> - 传统新闻推荐模型：news encoder、user encoder、similarity measure
+> 最近工作引入预训练语言模型，以pre-trian -> fine-tune范式，编码新闻内容，以进行新闻推荐。不足：因为新闻推荐任务和预训练语言模型任务存在gap，当前方法无法充分利用大语言模型的知识。
+> - prompt learning以pre-train -> prompt -> predict范式将下游任务和预训练语言模型对齐，在诸多NLP任务表现出色。受此启发，本文将prompt learning模式引入新闻推荐。
 
 <details>
 <summary>Solution</summary>
 
 > ![Framework of Prompt4NR](./Paper/Recommendation/NewsRec/fig1.png)
+
+> ![Propmts of Prompt4NR](./Paper/Recommendation/NewsRec/fig2.png)
 
 </details>
 
