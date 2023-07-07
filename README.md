@@ -1,12 +1,12 @@
 # Prompt Learning `Beta`
 
 ## 目录
-- [Prompt基础知识](#prompt基础知识)
+- [Basics of Prompt](#basics-of-prompt)
 - [Prompt @ Recommendation](#prompt--recommendation)
 
 
 
-# Prompt基础知识
+# Basics of Prompt
 
 ### 1. Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference (EACL 2021) [[pdf](./Paper/Prompt/Exploiting_Clone/Exploiting%20Cloze%20Questions%20for%20Few%20Shot%20Text%20Classification%20and%20Natural%20Language%20Inference%20-%20EACL%202021.pdf)]
 
@@ -72,9 +72,23 @@
 
 ### 5. PADA: A Prompt-based Autoregressive Approach for Adaptation to Unseen Domains (2021) [[pdf](./Paper/Prompt/PADA/PADA%20-%20A%20Prompt-based%20Autoregressive%20Approach%20for%20Adaptation%20to%20Unseen%20Domains%20-%202021.pdf)]
 
-`soft prompt` `MLM参数固定？`
+`soft prompt` `MLM`
 
 > ### Motivation
+
+### 6. WARP: Word-level Adversarial ReProgramming (ACL 2021) [[pdf](./Paper/Prompt/Warp/WARP%20-%20Word-level%20Adversarial%20ReProgramming%20-%20ACL%20-%202021.pdf)]
+
+`soft prompt` `MLM参数固定，只更新插入的prompt和label`
+
+> ### Motivation
+
+<details>
+<summary>Solution</summary>
+
+> ![Framework of Wcarp](./Paper/Prompt/Warp/fig1.png)
+
+</details>
+
 
 # Prompt @ Recommendation
 
