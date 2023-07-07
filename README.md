@@ -101,6 +101,13 @@
 > ### Motivation
 > - 
 
+<details>
+<summary>Solution</summary>
+
+> ![Framework of Prompt4SeqRec](./Paper/Recommendation/SeqRC/fig1.png)
+
+</details>
+
 ### 3. Personalized Prompt Learning for Explainable Recommendation (2023) [[pdf](./Paper/Recommendation/ExplainableRec/Personalized%20Prompt%20Learning%20for%20Explainable%20Recommendation.pdf)]
 
 > ### Motivation
