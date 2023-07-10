@@ -182,6 +182,10 @@
 
 ### 9. Generative recommendation: Towards next-generation recommender paradigm
 
+# Education 
+
+### 1. Matching Exemplar as Next Sentence Prediction (MeNSP): Zero-shot Prompt Learning for Automatic Scoring in Science Education
+
 # Survey
 
 ### 1. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing (2021) [[pdf](./Paper/Prompt/Pre-train/Pre-train%2C%20Prompt%2C%20and%20Predict%20-%20A%20Systematic%20Survey%20of%20Prompting%20Methods%20in%20Natural%20Language%20Processing.pdf)]
